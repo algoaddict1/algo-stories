@@ -1,0 +1,1 @@
+<inserire qui il codice index con uso di ChooseWallet e Sidebar>
